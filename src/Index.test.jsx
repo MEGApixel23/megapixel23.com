@@ -34,7 +34,7 @@ describe('application tests', () => {
   const buttons = {
     GitHub: 'https://github.com/MEGApixel23',
     LinkedIn: 'https://www.linkedin.com/in/megapixel23',
-    Resume: 'https://bit.ly/2PKDAXv',
+    Resume: 'https://bit.ly/3d1868v',
     Email: 'mailto:a@megapixel23.com',
   };
 
