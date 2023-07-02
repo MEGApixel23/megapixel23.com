@@ -2,7 +2,7 @@ import React, { useContext } from 'react';
 import styled from 'styled-components';
 
 import { AppContext } from '../App/AppContext';
-import { GitHub, LinkedIn, Resume, Email } from '../icons';
+import { GitHub, LinkedIn, Email } from '../icons';
 
 const Container = styled.div`
   a,
@@ -105,13 +105,7 @@ export const Buttons = () => {
       label: 'LinkedIn',
     },
     {
-      href: 'https://bit.ly/3d1868v',
-      aria: 'Visit Google Drive to view and download my resume',
-      icon: <Resume />,
-      label: 'Resume',
-    },
-    {
-      href: 'mailto:a@megapixel23.com',
+      href: 'mailto:hello@megapixel23.com',
       aria: 'Send me an email with this template',
       icon: <Email />,
       label: 'Email',

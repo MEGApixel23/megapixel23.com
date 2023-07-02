@@ -35,7 +35,7 @@ describe('application tests', () => {
     GitHub: 'https://github.com/MEGApixel23',
     LinkedIn: 'https://www.linkedin.com/in/megapixel23',
     Resume: 'https://bit.ly/3d1868v',
-    Email: 'mailto:a@megapixel23.com',
+    Email: 'mailto:hello@megapixel23.com',
   };
 
   test('should render buttons with links', () => {
